@@ -12,7 +12,7 @@
     </extensions>
 
     <applicationListeners>
-        <listener class="com.github.outofculture.refactordeprecate.listeners.MyProjectManagerListener"
-                  topic="com.intellij.openapi.project.ProjectManagerListener"/>
+<!--        <listener class="com.github.outofculture.refactordeprecate.listeners.MyProjectManagerListener"-->
+<!--                  topic="com.intellij.openapi.project.ProjectManagerListener"/>-->
     </applicationListeners>
 </idea-plugin>
